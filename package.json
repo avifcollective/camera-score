@@ -1,0 +1,12 @@
+{
+  "name": "camera-score",
+  "version": "0.0.1",
+  "description": "Calculation script to generate a camera sale score",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "samu.lol",
+  "license": "GPL-3.0-only"
+}
